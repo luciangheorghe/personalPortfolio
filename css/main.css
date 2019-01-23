@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,700i');
 @import "top-section.css";
 @import "services.css";
+@import "portfolio-section.css";
 
 body{
     /* background: #eeeeee; */
