@@ -32,6 +32,7 @@
     text-transform: capitalize;
     transition: all .3s ease-in-out;
 }
+
 #portfolio-projects .info .buttons .fas{
     color: #ff5253;
     margin-right: 10px;
@@ -52,7 +53,7 @@
     text-transform: capitalize;
 }
 #portfolio-projects .technologies{
-    padding: 100px 0;
+    padding: 20px 0;
 }
 #portfolio-projects h3{
     font-size: 2rem;
@@ -62,7 +63,7 @@
 }
 #portfolio-projects .technologies .icons{
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
     align-items: center;
     justify-items: center;
@@ -77,7 +78,7 @@
 }
 #portfolio-projects .technologies .icons .icon img{
     width: 100%;
-    max-width: 60px;    
+    max-width: 120px;    
 }
 #portfolio-projects .video{
    text-align: center; 

@@ -85,7 +85,7 @@
     grid-row: 1 / 2;
 }
 #portfolio-section .portfolio-container .box.image1 .image{
-    background: url('https://cdn.dribbble.com/users/46302/screenshots/5219787/go.png');
+    background: url('../../img/axel-crafts.png');
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -97,7 +97,7 @@
     grid-row: 1 / 4;
 }
 #portfolio-section .portfolio-container .box.image2 .image{
-    background: url('https://cdn.dribbble.com/users/1846841/screenshots/5430070/s_y_b_i_l.gif');
+    background: url('../../img/easyChef1.png');
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -109,7 +109,7 @@
     grid-row: 2 / 4;
 }
 #portfolio-section .portfolio-container .box.image3 .image{
-    background: url('https://cdn.dribbble.com/users/757683/screenshots/5399131/cc_shot_1_2x.jpg');
+    background: url('../../img/tomlin1.png');
     height: 100%;
     width: 100%;
     background-size: cover;
@@ -121,7 +121,7 @@
     grid-row: 2 / 3;
 }
 #portfolio-section .portfolio-container .box.image4 .image{
-    background: url('https://cdn.dribbble.com/users/952958/screenshots/5329424/shotime-dribbble_2x.png');
+    background: url('../../img/ack-store1.png');
     height: 100%;
     width: 100%;
     background-size: cover;
